@@ -1,6 +1,6 @@
 # TargetSistemas
  
-Repositorio publico para os Exercicios da vaga Job Rotation - Ribeirão Preto
+Repositório público para os exercícios da vaga Job Rotation - Ribeirão Preto
 
 Questão 1 - 
     Resultado da variável SOMA é 91
